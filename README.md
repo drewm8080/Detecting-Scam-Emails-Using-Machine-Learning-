@@ -4,6 +4,6 @@ Have you ever wanted to learn how to detect scams in emails? In this Github, I g
 
 The results of the models are below:
 
-<img width="259" alt="Screen Shot 2021-05-07 at 11 30 47 PM" src="https://user-images.githubusercontent.com/71193439/117524833-5bc7c380-af8d-11eb-9b2f-a6fd5d2e942e.png">
+<img width="800" alt="Screen Shot 2021-05-07 at 11 30 47 PM" src="https://user-images.githubusercontent.com/71193439/117524833-5bc7c380-af8d-11eb-9b2f-a6fd5d2e942e.png">
 
 As you can see, the Second Random Forest Classification, XGBoost, and AdaBoost Classifier were very close and had an accuracy of 95%. The #1 predictor I found for classifying emails as spam or not spam is "char_freq_%21".
