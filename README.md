@@ -7,3 +7,6 @@ The results of the models are below:
 <img width="800" alt="Screen Shot 2021-05-07 at 11 30 47 PM" src="https://user-images.githubusercontent.com/71193439/117524833-5bc7c380-af8d-11eb-9b2f-a6fd5d2e942e.png">
 
 As you can see, the Second Random Forest Classification, XGBoost, and AdaBoost Classifier were very close and had an accuracy of 95%. The #1 predictor I found for classifying emails as spam or not spam is "char_freq_%21".
+
+
+Medium Article: https://medium.com/analytics-vidhya/building-machine-learning-models-to-detect-scams-in-email-41ef3bd86bdb
